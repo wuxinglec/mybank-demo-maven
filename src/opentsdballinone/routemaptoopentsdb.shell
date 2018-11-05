@@ -1,1 +1,9 @@
+#1- opentsdb.conf: /opt/leaptsdb/etc/opentsdb/opentsdb.conf
+#2- application.properties : /opt/leaptsdb/etc/auth/application.properties
+#3- mysql.conf : /opt/leaptsdb/service/mysql.conf
+#4- servers.json : /opt/leaptsdb/service/servers.json
+## MySQL
+#spring.datasource.url=jdbc:mysql://l21mysqldt:3306/digitaltwin?characterEncoding=utf8&useSSL=false
+#spring.datasource.username=root
+#spring.datasource.password=root
 echo 123
