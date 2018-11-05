@@ -8,7 +8,7 @@
 #spring.datasource.url=jdbc:mysql://l21mysqldt:3306/digitaltwin?characterEncoding=utf8&useSSL=false
 #spring.datasource.username=root
 #spring.datasource.password=root
-echo 123
+echo "current running assemblebussiness.shell...................................................................."
 
 export TSDB_TABLE=tsdb2
 export UID_TABLE=tsdb-uid2
