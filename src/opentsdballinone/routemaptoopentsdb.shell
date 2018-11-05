@@ -7,13 +7,9 @@ echo 1
 echo 1
 echo 1
 echo 1
-echo 1
-echo 1
-echo 1
-echo 1
-echo 1
-echo 1
+
 sh /src/opentsdballinone/assemblebussiness.shell
+
 echo 2
 echo 2
 echo 2
