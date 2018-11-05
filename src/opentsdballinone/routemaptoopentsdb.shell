@@ -16,16 +16,23 @@ echo 123
 
 #1
 rm -rf /opt/leaptsdb/etc/opentsdb/opentsdb.conf
+#1.1
+cp /src/opentsdballinone/opentsdb.conf /opt/leaptsdb/etc/opentsdb/opentsdb.conf
 
 #2
 rm -rf /opt/leaptsdb/etc/auth/application.properties
+#2.1
+cp /src/opentsdballinone/application.properties /opt/leaptsdb/etc/auth/application.properties
 
 #3
 rm -rf  /opt/leaptsdb/service/mysql.conf
+#3.1
+cp /src/opentsdballinone/mysql.conf  /opt/leaptsdb/service/mysql.conf
 
 #4
 rm -rf /opt/leaptsdb/service/servers.json
-
+#4.1
+cp /src/opentsdballinone/servers.json /opt/leaptsdb/service/servers.json
 
 
 
