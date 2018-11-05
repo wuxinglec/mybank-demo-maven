@@ -1,0 +1,12 @@
+[{
+	"name": "opentsdbtoyota.iot.lenovocloud.com",
+	"value": "http://opentsdbtoyota.iot.lenovocloud.com"
+},
+{
+	"name": "opentsdbhonda.iot.lenovocloud.com",
+	"value": "http://opentsdbtoyota.iot.lenovocloud.com"
+},
+{
+	"name": "opentsdbvolvo.iot.lenovocloud.com",
+	"value": "http://opentsdbtoyota.iot.lenovocloud.com"
+}]
