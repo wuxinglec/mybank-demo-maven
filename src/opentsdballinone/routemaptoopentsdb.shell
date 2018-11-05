@@ -1,4 +1,4 @@
-#0- this shell is at /src/opentsdballinone/
+#0- this shell is at /src/opentsdballinone/routemaptoopentsdb.shell
 #1- opentsdb.conf: /opt/leaptsdb/etc/opentsdb/opentsdb.conf
 #2- application.properties : /opt/leaptsdb/etc/auth/application.properties
 #3- mysql.conf : /opt/leaptsdb/service/mysql.conf
