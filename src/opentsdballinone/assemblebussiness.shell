@@ -10,10 +10,10 @@
 #spring.datasource.password=root
 echo 123
 
-#export TSDB_TABLE=tsdb2
-#export UID_TABLE=tsdb-uid2
-#export TREE_TABLE=tsdb-tree2
-#export META_TABLE=tsdb-meta2
+export TSDB_TABLE=tsdb2
+export UID_TABLE=tsdb-uid2
+export TREE_TABLE=tsdb-tree2
+export META_TABLE=tsdb-meta2
 
 #1
 rm -rf /opt/leaptsdb/etc/opentsdb/opentsdb.conf
