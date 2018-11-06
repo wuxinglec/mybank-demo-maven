@@ -10,10 +10,10 @@
 #spring.datasource.password=root
 echo "current running assemblebussiness.shell...................................................................."
 
-export TSDB_TABLE='pre_tsdb'
-export UID_TABLE='pre_tsdb-uid'
-export TREE_TABLE='pre_tsdb-tree'
-export META_TABLE='pre_tsdb-meta'
+export TSDB_TABLE='pre_tsdb1'
+export UID_TABLE='pre_tsdb-uid1'
+export TREE_TABLE='pre_tsdb-tree1'
+export META_TABLE='pre_tsdb-meta1'
 
 #0
 cat /src/opentsdballinone/hosts >> /etc/hosts
