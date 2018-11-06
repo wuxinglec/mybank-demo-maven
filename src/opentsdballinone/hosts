@@ -1,0 +1,11 @@
+127.0.0.1 localhost localhost.localdomain         localhost4 localhost4.localdomain4
+10.0.82.231 zzs-leap1.com
+10.0.82.232 zzs-leap2.com
+10.0.82.233 zzs-leap3.com
+10.0.82.234 zzs-leap4.com
+10.0.82.235 zzs-leap5.com
+10.0.82.236 zzs-leap6.com
+#Internal leap repo source
+10.0.82.231 repo.leap.com
+10.0.82.231 ntpd.leap.com
+192.168.45.45      sa-admin-01
