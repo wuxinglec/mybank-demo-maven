@@ -1,0 +1,4 @@
+export TSDB_TABLE='pre_tsdb'
+export UID_TABLE='pre_tsdb-uid'
+export TREE_TABLE='pre_tsdb-tree'
+export META_TABLE='pre_tsdb-meta'
