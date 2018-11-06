@@ -10,10 +10,10 @@
 #spring.datasource.password=root
 echo "current running assemblebussiness.shell...................................................................."
 
-export TSDB_TABLE='pre_tsdb1'
-export UID_TABLE='pre_tsdb-uid1'
-export TREE_TABLE='pre_tsdb-tree1'
-export META_TABLE='pre_tsdb-meta1'
+export TSDB_TABLE='pre_tsdb12'
+export UID_TABLE='pre_tsdb-uid12'
+export TREE_TABLE='pre_tsdb-tree12'
+export META_TABLE='pre_tsdb-meta12'
 
 #0
 cat /src/opentsdballinone/hosts >> /etc/hosts
@@ -44,10 +44,6 @@ rm -rf /hbase/conf/hbase-site.xml
 cp /src/opentsdballinone/hbase-site.xml /hbase/conf/hbase-site.xml
 
 
-export TSDB_TABLE='pre_tsdb1'
-export UID_TABLE='pre_tsdb-uid1'
-export TREE_TABLE='pre_tsdb-tree1'
-export META_TABLE='pre_tsdb-meta1'
 
 
 
