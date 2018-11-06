@@ -34,3 +34,15 @@ cp /src/opentsdballinone/mysql.conf  /opt/leaptsdb/service/mysql.conf
 rm -rf /opt/leaptsdb/service/servers.json
 #4.1
 cp /src/opentsdballinone/servers.json /opt/leaptsdb/service/servers.json
+
+#5
+rm -rf /hbase/conf/hbase-site.xml
+#5.1
+cp /src/opentsdballinone/hbase-site.xml /hbase/conf/
+
+
+
+
+
+
+
