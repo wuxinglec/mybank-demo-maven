@@ -1,12 +1,12 @@
 [{
 	"name": "opentsdbapplecarallinone2.iot.lenovocloud.com",
-	"value": "http://opentsdbapplecarallinone2.iot.lenovocloud.com"
+	"value": "http://opentsdbapplecarallinone2.iot.lenovomm.com"
 },
 {
 	"name": "opentsdbhonda.iot.lenovocloud.com",
-	"value": "http://opentsdbtoyota.iot.lenovocloud.com"
+	"value": "http://opentsdbtoyota.iot.lenovomm.com"
 },
 {
 	"name": "opentsdbvolvo.iot.lenovocloud.com",
-	"value": "http://opentsdbtoyota.iot.lenovocloud.com"
+	"value": "http://opentsdbtoyota.iot.lenovomm.com"
 }]
